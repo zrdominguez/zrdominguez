@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 🎮👨‍💻✨  
+# Welcome! 🎮👨‍💻✨  
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/244a41da-c2e1-47b9-9cc1-de0246533a2c" alt="Coding GIF" width="500">
